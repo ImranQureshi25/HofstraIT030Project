@@ -15,7 +15,7 @@ HofstraIT030Project is a web project created about the Ferrari F430 for Intro to
 - Publicly accessible web pages for IT030 final project, including local cookie storage for theme preference and name
 - Organized structure with interactive design using flexbox and grid features, making it easy for students or visitors to navigate
 - Clear and precise information about the Ferrari F430, including specifications, variants, and history
-- Affiliate page for event tracking and classroom collaboration on web development practices
+- Affiliate page for event tracking and classroom collaboration on web development ideas
 
 ## How to Use
 Browse the [live homepage](https://imranqureshi25.github.io/HofstraIT030Project/) for course materials, project updates, or related information.
